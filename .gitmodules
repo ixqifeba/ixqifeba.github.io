@@ -1,0 +1,24 @@
+[submodule "themes/martin-pelican"]
+	path = themes/martin-pelican
+	url = https://github.com/cpaulik/martin-pelican
+[submodule "themes/pure-single"]
+	path = themes/pure-single
+	url = git@github.com:vanceb/pure-single
+[submodule "themes/jesuislibre"]
+	path = themes/jesuislibre
+	url = https://github.com/badele/pelican-theme-jesuislibre
+[submodule "themes/MinimalXY"]
+	path = themes/MinimalXY
+	url = https://github.com/petrnohejl/MinimalXY
+[submodule "themes/pelican-mockingbird"]
+	path = themes/pelican-mockingbird
+	url = https://github.com/wrl/pelican-mockingbird
+[submodule "themes/pelican-svbtle"]
+	path = themes/pelican-svbtle
+	url = https://github.com/wting/pelican-svbtle
+[submodule "themes/voce"]
+	path = themes/voce
+	url = https://github.com/limbenjamin/voce
+[submodule "themes/Flex"]
+	path = themes/Flex
+	url = https://github.com/alexandrevicenzi/Flex
