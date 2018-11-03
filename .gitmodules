@@ -19,6 +19,7 @@
 [submodule "themes/voce"]
 	path = themes/voce
 	url = https://github.com/limbenjamin/voce
+	ignore = dirty
 [submodule "themes/Flex"]
 	path = themes/Flex
 	url = https://github.com/alexandrevicenzi/Flex
