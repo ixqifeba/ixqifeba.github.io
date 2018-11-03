@@ -25,9 +25,6 @@ THEME = "themes/pure-single"
 COVER_IMG_URL = 'https://i.redd.it/vsnmwbjpqzv11.jpg'
 TAGLINE = "taaaaglineee.ee"
 
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = False
 
@@ -36,4 +33,4 @@ DEFAULT_PAGINATION = False
 
 # Plugins
 PLUGIN_PATHS = ['./plugins'] #,  'themes/voce/plugins']
-PLUGINS = ['assets']
+PLUGINS = ['']
