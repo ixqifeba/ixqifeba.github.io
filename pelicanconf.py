@@ -7,6 +7,7 @@ SITENAME = 'wasurerareru'
 SITEURL = ''
 
 PATH = 'content'
+STATIC_PATHS = ['images']
 
 TIMEZONE = 'America/Los_Angeles'
 
