@@ -9,8 +9,8 @@ SITEURL = ''
 PATH = 'content'
 STATIC_PATHS = ['images']
 
+# Int'l Settings
 TIMEZONE = 'America/Los_Angeles'
-
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
@@ -19,6 +19,9 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+# Theme
+THEME = "themes/pure-single"
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
