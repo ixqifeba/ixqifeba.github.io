@@ -33,4 +33,4 @@ DEFAULT_PAGINATION = False
 
 # Plugins
 PLUGIN_PATHS = ['./plugins'] #,  'themes/voce/plugins']
-PLUGINS = ['']
+PLUGINS = []
