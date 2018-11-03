@@ -22,6 +22,7 @@ AUTHOR_FEED_RSS = None
 
 # Theme
 THEME = "themes/pure-single"
+COVER_IMG_URL = 'https://i.redd.it/vsnmwbjpqzv11.jpg'
 TAGLINE = "taaaaglineee.ee"
 
 # Social widget
