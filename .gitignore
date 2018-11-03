@@ -1,5 +1,0 @@
-*.sw?
-*.pid
-
-__pycache__/
-venv/
