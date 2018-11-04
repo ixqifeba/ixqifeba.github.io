@@ -3,7 +3,7 @@
 	url = https://github.com/cpaulik/martin-pelican
 [submodule "themes/pure-single"]
 	path = themes/pure-single
-	url = git@github.com:ixqifeba/pure-single.git
+	url = https://github.com/ixqifeba/pure-single
 [submodule "themes/jesuislibre"]
 	path = themes/jesuislibre
 	url = https://github.com/badele/pelican-theme-jesuislibre
