@@ -8,4 +8,5 @@ Summary: First Post
 This is a *first post* to test how its working.
 ![image]({filename}/images/Cracked_Ice_Okyo.jpg)
 
-Test to see if netlify is workng
+Test to see if netlify is workng.
+Now github should work tooo!
