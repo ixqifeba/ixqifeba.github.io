@@ -1,8 +1,0 @@
-*.sw?
-*.pid
-
-__pycache__/
-venv/
-output/
-content/
-themes/
