@@ -3,7 +3,7 @@ Date: 2018-10-29
 Category: poems
 Tags: Poems
 Slug: ability-to-think-without-time
-Summary: The ability to think without time
+Summary: 
 
 <div class="post-poem">
 We must admit

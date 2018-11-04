@@ -3,7 +3,7 @@ Date: 2018-10-29
 Category: poems
 Tags: poems
 Slug: subvenire
-Summary: lskdjf
+Summary: 
 
 <div class="post-poem">
 In due time,
