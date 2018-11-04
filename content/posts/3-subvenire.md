@@ -14,7 +14,7 @@ able to accomplish.
 
 Not the glory,
 nor the story,
-nor that it was I.
+nor even that it was I.
 
 That what I had once
 resigned to
