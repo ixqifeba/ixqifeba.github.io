@@ -14,7 +14,7 @@ we employ
 our faculties
 in avoiding
 what is
-and
+and ~~wait~~
 in constant
 apprehension
 of what's to come.  
@@ -22,11 +22,11 @@ of what's to come.
 We watch our lives
 being spent,
 channeled
-into
-an automaticity of
-prognostics,
+into an automaticity
+of prognostics,
 of supreme architecture,
-except for a glimpse
+except for a rare glimpse
+of cessation
 here or there.
 
 That the past should
@@ -48,10 +48,12 @@ what can heal us.
 To see without time,
 is not seeing past, but
 to be here,
-in constant surprise.
+in awe and
+constant surprise.
 
-And not on the lookout/defense
+And not on the lookout or defense
 of that which once hurt you,
+from where it'll strike again,
 and all the plans you have for it.
 
 In the now,
