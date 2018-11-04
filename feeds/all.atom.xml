@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>wasurerareru</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2018-11-02T21:26:00-07:00</updated><entry><title>first post</title><link href="/first-post.html" rel="alternate"></link><published>2018-11-02T21:26:00-07:00</published><updated>2018-11-02T21:26:00-07:00</updated><author><name>ixqifeba</name></author><id>tag:None,2018-11-02:/first-post.html</id><summary type="html">&lt;p&gt;First Post&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is a &lt;em&gt;first post&lt;/em&gt; to test how its working.
-&lt;img alt="image" src="/images/Cracked_Ice_Okyo.jpg"&gt;&lt;/p&gt;</content><category term="first"></category><category term="misc"></category></entry><entry><title>The ability to think without time</title><link href="/ability-to-think-without-time.html" rel="alternate"></link><published>2018-10-29T00:00:00-07:00</published><updated>2018-10-29T00:00:00-07:00</updated><author><name>ixqifeba</name></author><id>tag:None,2018-10-29:/ability-to-think-without-time.html</id><summary type="html">&lt;p&gt;The ability to think without time&lt;/p&gt;</summary><content type="html">&lt;div class="post-poem"&gt;
-
+&lt;img alt="image" src="/images/Cracked_Ice_Okyo.jpg"&gt;&lt;/p&gt;</content><category term="first"></category><category term="misc"></category></entry><entry><title>The ability to think without time</title><link href="/ability-to-think-without-time.html" rel="alternate"></link><published>2018-10-29T00:00:00-07:00</published><updated>2018-10-29T00:00:00-07:00</updated><author><name>ixqifeba</name></author><id>tag:None,2018-10-29:/ability-to-think-without-time.html</id><summary type="html"></summary><content type="html">&lt;div class="post-poem"&gt;
 We must admit
 the horrible ways
 we employ
@@ -11,7 +10,7 @@ what is
 and ~~wait~~
 in constant
 apprehension
-of what's to come.  
+of what's to come.
 
 We watch our lives
 being spent,
@@ -55,4 +54,68 @@ it is gone,
 and perhaps you too
 will have to shed
 that history.
-&lt;/div&gt;</content><category term="Poems"></category></entry></feed>
+&lt;/div&gt;</content><category term="Poems"></category></entry><entry><title>Subvenire</title><link href="/subvenire.html" rel="alternate"></link><published>2018-10-29T00:00:00-07:00</published><updated>2018-10-29T00:00:00-07:00</updated><author><name>ixqifeba</name></author><id>tag:None,2018-10-29:/subvenire.html</id><summary type="html"></summary><content type="html">&lt;div class="post-poem"&gt;
+In due time,
+I'll forget the significance
+of what I've been 
+able to accomplish.
+(nb: make passive)
+
+Not the glory,
+nor the story,
+nor even that it was I.
+
+That what I had once
+resigned to
+impossibility,
+is from where
+I record this.
+
+That contentment
+is a constant invitation.
+
+The only responsibility
+you have
+is to listen and
+allow yourself
+to come forth.
+
+I've been here before.
+Only a few
+I can recall.
+
+This time,
+I see no reason
+to resist
+when it slowly 
+pulls back
+into the dark.
+
+The dawn 
+that arose
+comforts
+at dusk.
+
+And that 
+the dark
+wasn't retribution
+for some 
+unknown, naive
+transgression
+that I failed 
+to find
+in my 
+frenzied and frenetic
+inquisitions.
+
+That 
+I am not 
+even necessary
+for this synchrony.
+
+Nor with
+any stake,
+might as well
+wade along.
+
+&lt;/div&gt;</content><category term="poems"></category></entry></feed>
