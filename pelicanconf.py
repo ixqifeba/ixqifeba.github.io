@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'ixqifeba'
 SITENAME = 'wasurerareru'
-SITEURL = ''
+SITEURL = '../'
 
 PATH = 'content'
 STATIC_PATHS = ['images']
@@ -22,7 +22,7 @@ AUTHOR_FEED_RSS = None
 
 # Theme
 THEME = "themes/pure-single"
-COVER_IMG_URL = 'https://i.redd.it/vsnmwbjpqzv11.jpg'
+COVER_IMG_URL = '/images/eberhard-grossgasteiger-545770-unsplash.jpg'
 TAGLINE = "documented moltings"
 
 
