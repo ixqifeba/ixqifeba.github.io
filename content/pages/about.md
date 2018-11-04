@@ -8,5 +8,12 @@ Title: About
         1. discard something previously learned
         2. unlearn
         3. stop remembering
-* [Sidebar Photo by eberhard grossgasteiger on Unsplash](https://unsplash.com/photos/FhdN5QVrBfY)
-* [GitHub](https://github.com/ixqifeba/ixqifeba.github.io)
+
+* Why write:   
+    1. I don't completely know
+    2. To snapshot what I forgot I was like.
+    3. To help <s>myself</s> whatever fish finds itself in this stream.
+
+* Credits:
+    * [Sidebar Photo by eberhard grossgasteiger on Unsplash](https://unsplash.com/photos/FhdN5QVrBfY)
+    * [GitHub](https://github.com/ixqifeba/ixqifeba.github.io)
