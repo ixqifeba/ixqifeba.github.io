@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>wasurerareru</title><link href="https:/ixqifeba.github.io/" rel="alternate"></link><link href="https:/ixqifeba.github.io/feeds/all.atom.xml" rel="self"></link><id>https:/ixqifeba.github.io/</id><updated>2018-11-02T21:26:00-07:00</updated><entry><title>first post</title><link href="https:/ixqifeba.github.io/first-post.html" rel="alternate"></link><published>2018-11-02T21:26:00-07:00</published><updated>2018-11-02T21:26:00-07:00</updated><author><name>ixqifeba</name></author><id>tag:None,2018-11-02:/ixqifeba.github.io/first-post.html</id><summary type="html">&lt;p&gt;First&amp;nbsp;Post&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is a &lt;em&gt;first post&lt;/em&gt; to test how its working.
-&lt;img alt="image" src="https:/ixqifeba.github.io/images/Cracked_Ice_Okyo.jpg"&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>wasurerareru</title><link href="https://ixqifeba.github.io/" rel="alternate"></link><link href="https://ixqifeba.github.io/feeds/all.atom.xml" rel="self"></link><id>https://ixqifeba.github.io/</id><updated>2018-11-02T21:26:00-07:00</updated><entry><title>first post</title><link href="https://ixqifeba.github.io/first-post.html" rel="alternate"></link><published>2018-11-02T21:26:00-07:00</published><updated>2018-11-02T21:26:00-07:00</updated><author><name>ixqifeba</name></author><id>tag:ixqifeba.github.io,2018-11-02:/first-post.html</id><summary type="html">&lt;p&gt;First&amp;nbsp;Post&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is a &lt;em&gt;first post&lt;/em&gt; to test how its working.
+&lt;img alt="image" src="https://ixqifeba.github.io/images/Cracked_Ice_Okyo.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;Test to see if netlify is workng.
-Now github should work&amp;nbsp;tooo!&lt;/p&gt;</content><category term="first"></category><category term="misc"></category></entry><entry><title>The ability to think without time</title><link href="https:/ixqifeba.github.io/ability-to-think-without-time.html" rel="alternate"></link><published>2018-10-29T00:00:00-07:00</published><updated>2018-10-29T00:00:00-07:00</updated><author><name>ixqifeba</name></author><id>tag:None,2018-10-29:/ixqifeba.github.io/ability-to-think-without-time.html</id><summary type="html"></summary><content type="html">&lt;div class="post-poem"&gt;
+Now github should work&amp;nbsp;tooo!&lt;/p&gt;</content><category term="first"></category><category term="misc"></category></entry><entry><title>The ability to think without time</title><link href="https://ixqifeba.github.io/ability-to-think-without-time.html" rel="alternate"></link><published>2018-10-29T00:00:00-07:00</published><updated>2018-10-29T00:00:00-07:00</updated><author><name>ixqifeba</name></author><id>tag:ixqifeba.github.io,2018-10-29:/ability-to-think-without-time.html</id><summary type="html"></summary><content type="html">&lt;div class="post-poem"&gt;
 We must admit
 the horrible ways
 we employ
@@ -56,7 +56,7 @@ it is gone,
 and perhaps you too
 will have to shed
 that history.
-&lt;/div&gt;</content><category term="Poems"></category></entry><entry><title>Subvenire</title><link href="https:/ixqifeba.github.io/subvenire.html" rel="alternate"></link><published>2018-10-29T00:00:00-07:00</published><updated>2018-10-29T00:00:00-07:00</updated><author><name>ixqifeba</name></author><id>tag:None,2018-10-29:/ixqifeba.github.io/subvenire.html</id><summary type="html"></summary><content type="html">&lt;div class="post-poem"&gt;
+&lt;/div&gt;</content><category term="Poems"></category></entry><entry><title>Subvenire</title><link href="https://ixqifeba.github.io/subvenire.html" rel="alternate"></link><published>2018-10-29T00:00:00-07:00</published><updated>2018-10-29T00:00:00-07:00</updated><author><name>ixqifeba</name></author><id>tag:ixqifeba.github.io,2018-10-29:/subvenire.html</id><summary type="html"></summary><content type="html">&lt;div class="post-poem"&gt;
 In due time,
 I&amp;#8217;ll forget the significance
 of what I&amp;#8217;ve been 
