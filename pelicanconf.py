@@ -4,9 +4,10 @@ from __future__ import unicode_literals
 
 AUTHOR = 'ixqifeba'
 SITENAME = 'wasurerareru'
-SITEURL = '../'
+SITEURL = ''
 
 PATH = 'content'
+PAGE_PATHS = ['pages']
 STATIC_PATHS = ['images']
 
 # Int'l Settings
@@ -20,15 +21,16 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Theme
+# Look
 THEME = "themes/pure-single"
 COVER_IMG_URL = '/images/eberhard-grossgasteiger-545770-unsplash.jpg'
 TAGLINE = "documented moltings"
 MENUITEMS = [
     ('About', './pages/about.html')
 ]
-
+DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False
+TYPOGRIFY = True
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
