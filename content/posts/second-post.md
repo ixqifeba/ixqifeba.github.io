@@ -4,10 +4,8 @@ Category: poems
 Tags: Poems
 Slug: ability-to-think-without-time
 Summary: The ability to think without time
-Photo_Image: Cracked_Ice_Okyo.jpg
 
 <div class="post-poem">
-
 We must admit
 the horrible ways
 we employ
