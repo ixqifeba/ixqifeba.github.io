@@ -47,12 +47,14 @@ You piece of shit.
 
 I was lost
 in the abyss
-so dark and alone,
+so dark and so alone
+without a horizon,
 like an
 untethered astronaut.
 
-All I wanted
-was to be oriented
+All I wanted 
+was 
+to be oriented
 by you.
 
 </div>
