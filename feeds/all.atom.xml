@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>wasurerareru</title><link href="https://ixqifeba.github.io/" rel="alternate"></link><link href="https://ixqifeba.github.io/feeds/all.atom.xml" rel="self"></link><id>https://ixqifeba.github.io/</id><updated>2018-11-02T21:26:00-07:00</updated><entry><title>first post</title><link href="https://ixqifeba.github.io/first-post.html" rel="alternate"></link><published>2018-11-02T21:26:00-07:00</published><updated>2018-11-02T21:26:00-07:00</updated><author><name>ixqifeba</name></author><id>tag:ixqifeba.github.io,2018-11-02:/first-post.html</id><summary type="html">&lt;p&gt;First&amp;nbsp;Post&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is a &lt;em&gt;first post&lt;/em&gt; to test how its working.
-&lt;img alt="image" src="https://ixqifeba.github.io/images/Cracked_Ice_Okyo.jpg"&gt;&lt;/p&gt;
-&lt;p&gt;Test to see if netlify is workng.
+Test to see if netlify is workng.
 Now github should work&amp;nbsp;tooo!&lt;/p&gt;</content><category term="first"></category><category term="misc"></category></entry><entry><title>The ability to think without time</title><link href="https://ixqifeba.github.io/ability-to-think-without-time.html" rel="alternate"></link><published>2018-10-29T00:00:00-07:00</published><updated>2018-10-29T00:00:00-07:00</updated><author><name>ixqifeba</name></author><id>tag:ixqifeba.github.io,2018-10-29:/ability-to-think-without-time.html</id><summary type="html"></summary><content type="html">&lt;div class="post-poem"&gt;
 We must admit
 the horrible ways
@@ -120,4 +119,56 @@ any stake,
 might as well
 wade along.
 
-&lt;/div&gt;</content><category term="poems"></category></entry></feed>
+&lt;/div&gt;</content><category term="poems"></category></entry><entry><title>The need for confirmation</title><link href="https://ixqifeba.github.io/the-need-for-confirmation.html" rel="alternate"></link><published>2018-09-14T00:00:00-07:00</published><updated>2018-09-14T00:00:00-07:00</updated><author><name>ixqifeba</name></author><id>tag:ixqifeba.github.io,2018-09-14:/the-need-for-confirmation.html</id><summary type="html"></summary><content type="html">&lt;div class="post-poem"&gt;
+holy shit!
+are you seeing this?
+that&amp;#8217;s unbelievable!
+
+no, not that. that.
+
+what do you mean no?
+
+why 
+aren&amp;#8217;t you seeing 
+what I&amp;#8217;m seeing?
+
+it&amp;#8217;s
+right
+there!
+
+No, not like that.
+see it this way!
+
+isn&amp;#8217;t that crazy?
+
+what!?
+
+why 
+aren&amp;#8217;t you feeling 
+what I&amp;#8217;m feeling?
+
+You 
+should be feeling
+what I&amp;#8217;m feeling.
+
+&lt;span class="caps"&gt;NO&lt;/span&gt;, &lt;span class="caps"&gt;NOT&lt;/span&gt; &lt;span class="caps"&gt;LIKE&lt;/span&gt; &lt;span class="caps"&gt;THAT&lt;/span&gt;!
+&lt;span class="caps"&gt;LIKE&lt;/span&gt; &lt;span class="caps"&gt;THIS&lt;/span&gt;!
+
+&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;
+
+Fuck you!
+You piece of shit.
+
+I was lost
+in the abyss
+so dark and so alone
+without a horizon,
+like an
+untethered astronaut.
+
+All I wanted 
+was 
+to be oriented
+by you.
+
+&lt;/div&gt;</content><category term="Poems"></category></entry></feed>
