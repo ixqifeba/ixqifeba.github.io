@@ -31,6 +31,7 @@ MENUITEMS = [
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False
 TYPOGRIFY = True
+ARTICLE_ORDER_BY = 'reversed-date'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
