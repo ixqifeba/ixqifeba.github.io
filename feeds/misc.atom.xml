@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>wasurerareru - misc</title><link href="https://ixqifeba.github.io/" rel="alternate"></link><link href="https://ixqifeba.github.io/feeds/misc.atom.xml" rel="self"></link><id>https://ixqifeba.github.io/</id><updated>2018-11-02T21:26:00-07:00</updated><entry><title>first post</title><link href="https://ixqifeba.github.io/first-post.html" rel="alternate"></link><published>2018-11-02T21:26:00-07:00</published><updated>2018-11-02T21:26:00-07:00</updated><author><name>ixqifeba</name></author><id>tag:ixqifeba.github.io,2018-11-02:/first-post.html</id><summary type="html">&lt;p&gt;First&amp;nbsp;Post&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is a &lt;em&gt;first post&lt;/em&gt; to test how its working.
-Test to see if netlify is workng.
-Now github should work&amp;nbsp;tooo!&lt;/p&gt;</content><category term="first"></category><category term="misc"></category></entry></feed>
