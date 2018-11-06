@@ -22,11 +22,16 @@ I've committed
 is to not let me be,
 be what I am.
 
+To look,
+and let be.
+
 To forestall
 a growth,
-that I'd fit in.
+<s>that I'd fit in.</s>
+to fit in.
 
 The developments
+
 so crucial,
 that it undoes
 no pain,
