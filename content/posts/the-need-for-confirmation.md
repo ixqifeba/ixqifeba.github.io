@@ -24,7 +24,6 @@ there!
 
 No, not like that.
 see it this way!
-
 isn't that crazy?
 
 what!?
