@@ -16,4 +16,5 @@ Title: About
 
 * Credits:
     * [Sidebar Photo by eberhard grossgasteiger on Unsplash](https://unsplash.com/photos/FhdN5QVrBfY)
+    * Style inspiration from [Wildness](http://readwildness.com/) magazine.
     * [GitHub](https://github.com/ixqifeba/ixqifeba.github.io)
