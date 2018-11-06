@@ -17,25 +17,24 @@ And, I
 became
 those thoughts.
 
+<s>Reactin</s>
+Punching wildly
+<s>from sleep.</s>
+from a forgotten slumber.
+
 The greatest crime 
 I've committed
 is to not let me be,
 be what I am.
 
-To look,
-and let be.
+To look.
 
 To forestall
 a growth,
-<s>that I'd fit in.</s>
 to fit in.
-
-The developments
-
-so crucial,
-that it undoes
-no pain,
-just hinders
+Yet it undoes
+no pain.
+Simply hinders
 the unfurling
 of a beautiful song.
 </div>
