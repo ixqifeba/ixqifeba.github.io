@@ -2,6 +2,7 @@ Title: Looking
 Date: 2018-10-18
 Category: Poems
 Slug: looking
+Status: 
 Summary:
 
 <div class="post-poem">
@@ -17,24 +18,29 @@ And, I
 became
 those thoughts.
 
-<s>Reactin</s>
 Punching wildly
-<s>from sleep.</s>
-from a forgotten slumber.
+from a 
+forgotten slumber.
 
 The greatest crime 
 I've committed
-is to not let me be,
-be what I am.
+is to not let be,
+be what is.
+
+<s>is to not let me be,
+be what I am.</s>
 
 To look.
 
-To forestall
-a growth,
+<s>To forestall</s>
+Forestalling
+growth,
 to fit in.
-Yet it undoes
-no pain.
-Simply hinders
+Even when 
+it undoes
+no pain, and
+simply hinders
 the unfurling
 of a beautiful song.
 </div>
+
