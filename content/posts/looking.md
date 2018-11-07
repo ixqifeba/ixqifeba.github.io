@@ -35,11 +35,8 @@ it undoes
 no pain,
 as I hoped,
 but
-simply hinders
-
-delays
-the encounter
-with
+forestalls
+the encounter with
 the unfurling
 of a beautiful song.
 nb: song is not fitting the unfurling 
