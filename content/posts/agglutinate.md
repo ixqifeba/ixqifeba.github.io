@@ -9,5 +9,5 @@ You are
 what you
 agglutinate
 with your
-attention
+attention.
 </div>
