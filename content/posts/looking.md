@@ -20,14 +20,14 @@ is to not let me
 be
 be what I am.
 
-To embog
-growth,
+To embog growth,
 even 
 when it undoes
 no pain,
-but simply forestalls
+and simply forestalls
 the unfurling
-of a beautiful song.
+of the petals.
+
 nb: forestalls sounds clunky
-nb: song is not fitting here.
+nb: rename title of the poem
 </div>
