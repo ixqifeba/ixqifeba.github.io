@@ -20,28 +20,32 @@ And, I
 became
 those thoughts.
 
-And punching wildly
+(So complete that I fell asleep)
+
+Punching wildly
+across the veil, and
+against the shadows
 from that 
 forgotten slumber.
 
 Forestalling
 a growth,
-<s>to fit in.</s>
-Even when 
+even when 
 it undoes 
-no pain, 
+no pain,
+as I hoped,
 but
 simply hinders
 
 delays
 the encounter
-
+with
 the unfurling
 of a beautiful song.
 nb: song is not fitting the unfurling 
 
-The greatest crime 
-I've committed
+The great crime 
+<s>committed</s>
 is to not let be,
 be what is.
 
