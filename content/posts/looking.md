@@ -20,8 +20,8 @@ And, I
 became
 those thoughts.
 
-Punching wildly
-from a 
+And punching wildly
+from that 
 forgotten slumber.
 
 Forestalling
