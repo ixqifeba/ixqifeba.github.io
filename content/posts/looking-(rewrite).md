@@ -2,7 +2,7 @@ Title: Looking (to be rewritten)
 Date: 2018-10-18
 Category: Poems
 Slug: looking (rewrite)
-Status: 
+Status: draft
 Summary:
 
 <div class="post-poem">
@@ -11,7 +11,7 @@ Summary:
 Punching wildly
 across the veil, and
 against the shadows
-from that 
+from a
 forgotten slumber.
 
 
