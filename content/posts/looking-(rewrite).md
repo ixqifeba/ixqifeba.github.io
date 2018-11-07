@@ -1,25 +1,11 @@
-Title: Looking
+Title: Looking (to be rewritten)
 Date: 2018-10-18
 Category: Poems
-Slug: looking
+Slug: looking (rewrite)
 Status: 
 Summary:
 
 <div class="post-poem">
-I looked deep
-into a flower.
-And,
-I became 
-that flower.
-
-nb: add another metaphor?
-
-I looked deep 
-into my thoughts.
-And, I 
-became
-those thoughts.
-
 (So complete that I fell asleep)
 
 Punching wildly
@@ -27,6 +13,11 @@ across the veil, and
 against the shadows
 from that 
 forgotten slumber.
+
+
+--
+
+To look, and let be.
 
 Forestalling
 a growth,
@@ -46,8 +37,6 @@ The great crime
 is to not let be,
 be what is.
 
-<s>is to not let me be,
-be what I am.</s>
 
-To look, and let be.
+
 </div>
