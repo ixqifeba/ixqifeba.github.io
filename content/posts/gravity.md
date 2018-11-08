@@ -11,10 +11,13 @@ that I stopped taking
 my falls
 personally.
 
-The rules of the game
+The rules 
+of the game
 are such.
+
 The best thought
-is employed in finding 
+is employed 
+in finding 
 what can be affected,
 and
 what must be accepted.
