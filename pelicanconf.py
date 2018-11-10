@@ -23,6 +23,8 @@ AUTHOR_FEED_RSS = None
 
 # Look
 THEME = "themes/pure-single"
+HIDE_CATEGORIES = True
+POSTS_LIST = None #options 'tags', 'categories', None
 COVER_IMG_URL = '/images/eberhard-grossgasteiger-545770-unsplash.jpg'
 TAGLINE = "documented moltings"
 MENUITEMS = [
