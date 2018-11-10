@@ -5,27 +5,25 @@ Slug: let
 Summary: 
 
 <div class="post-poem">
-Let the wind 
+Let the wind,
 be the wind.
---
-Let the wave
+
+Let the wave,
 be the wave.
 
-Let the emotion
+Let the emotion,
 be the emotion.
 
-Let the mood
+Let the mood,
 be the mood.
 
---/
-
 Not a sign,
-or a totem,
-or anything else
+nor a totem,
+or anything
 but itself.
 
---
 The world 
 does not exist
-to inform you.
+simply to 
+inform you.
 </div>
