@@ -13,6 +13,7 @@ Title: About
     1. I don't completely know
     2. To snapshot what I forgot I was like.
     3. To help <s>myself</s> whatever fish finds itself in this stream.
+    4. These are not mine, just recorded by me.
 
 * Credits:
     * [Sidebar Photo by eberhard grossgasteiger on Unsplash](https://unsplash.com/photos/FhdN5QVrBfY)
