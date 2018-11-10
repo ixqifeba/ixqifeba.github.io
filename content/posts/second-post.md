@@ -12,7 +12,7 @@ we employ
 our faculties
 in avoiding
 what is
-and ~~wait~~
+and cower
 in constant
 apprehension
 of what's to come.  
@@ -22,14 +22,15 @@ being spent,
 channeled
 into an automaticity
 of prognostics,
-of supreme architecture,
+and stacking 
+supreme architectures,
 except for a rare glimpse
 of cessation
 here or there.
 
 That the past should
 predict the present
-is preposterous.
+is a convincing error.
 And yet, it is
 the foundation
 of our inheritance.
