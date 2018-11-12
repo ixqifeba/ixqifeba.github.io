@@ -8,8 +8,8 @@ Summary:
 It wasn't until 
 I learned of gravity,
 that I stopped taking
-my falls
-personally.
+falling 
+so personally.
 
 The rules 
 of the game
