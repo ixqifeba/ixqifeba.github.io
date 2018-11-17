@@ -42,11 +42,6 @@ when it slowly
 pulls back
 into the dark.
 
-The dawn 
-that arose
-comforts
-at dusk.
-
 And that 
 the dark
 wasn't retribution
