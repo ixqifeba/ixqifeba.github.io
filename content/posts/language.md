@@ -17,15 +17,24 @@ running in its
 tracks.
 
 They are one;
-the prior frozen 
+the frozen 
 and 
-the latter fluid.
+the fluid.
 
 Let these not
 illude
 and stand in for (belie)
 what is.
 
+There are few,
+if any, poems
+about the Pancreas,
+despite importance,
+because 
+like language
+we only see 
+thrill and panic,
+not the substrate.
 
 
 Our reliance
