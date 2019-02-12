@@ -1,6 +1,6 @@
 Title: The ability to think without time
 Date: 2018-10-29
-Category: shipit
+Status: published
 Tags: Poems
 Slug: ability-to-think-without-time
 Summary: 

@@ -1,6 +1,6 @@
 Title: Let
 Date: Oct 10 2018
-Category: shipit
+Status: published
 Slug: let
 Summary: 
 

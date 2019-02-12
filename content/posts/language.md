@@ -1,6 +1,6 @@
 Title: Language
 Date: 2018-11-16
-Category: shipit
+Status: published
 Tags: Poems
 Slug: language
 Summary: 

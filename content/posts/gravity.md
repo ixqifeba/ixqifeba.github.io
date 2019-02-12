@@ -1,6 +1,6 @@
 Title: Gravity
 Date: 2018-10-20
-Category: shipit
+Status: published
 Slug: gravity
 Summary: 
 

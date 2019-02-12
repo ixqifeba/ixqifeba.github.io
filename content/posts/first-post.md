@@ -1,6 +1,6 @@
 Title: first post
 Date: 2018-11-02 21:26
-Category: shipit
+Status: published
 Tags: first, misc
 Slug: first-post
 Summary: First Post

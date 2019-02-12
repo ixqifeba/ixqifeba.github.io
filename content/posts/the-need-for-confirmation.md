@@ -1,6 +1,6 @@
 Title: The need for confirmation
 Date: 2018-09-14
-Category: shipit
+Status: published
 Tags: Poems
 Slug: the-need-for-confirmation
 Summary: 

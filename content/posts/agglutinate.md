@@ -1,6 +1,6 @@
 Title: Agglutinate
 Date: 2018-10-30
-Category: shipit
+Status: published
 Slug: agglutinate
 Summary: 
 

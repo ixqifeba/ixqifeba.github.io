@@ -1,6 +1,6 @@
 Title: in_progress2
 Date: 2018-11-11
-Category: wip
+Status: draft
 Slug: in_progress2
 Summary: 
 

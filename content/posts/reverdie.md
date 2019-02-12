@@ -1,6 +1,6 @@
 Title: Reverdie
 Date: 2018-09-15
-Category: shipit
+Status: published
 Slug: reverdie
 Summary: 
 
