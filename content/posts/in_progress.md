@@ -2,7 +2,6 @@ Title: in_progress1
 Date: 2018-11-11
 Status: draft
 Slug: in_progress1
-Status: draft
 Summary: 
 
 <div class="post-poem">
