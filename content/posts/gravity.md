@@ -1,6 +1,6 @@
 Title: Gravity
 Date: 2018-10-20
-Category: Poems
+Category: shipit
 Slug: gravity
 Summary: 
 

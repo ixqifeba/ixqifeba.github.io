@@ -1,6 +1,6 @@
 Title: Looking (to be rewritten)
 Date: 2018-10-18
-Category: Poems
+Category: shipit
 Slug: looking (rewrite)
 Status: draft
 Summary:

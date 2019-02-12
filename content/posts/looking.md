@@ -1,6 +1,6 @@
 Title: Looking
 Date: 2018-10-18
-Category: Poems
+Category: shipit
 Slug: looking
 Summary:
 

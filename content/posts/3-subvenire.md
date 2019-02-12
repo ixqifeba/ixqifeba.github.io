@@ -1,6 +1,6 @@
 Title: Subvenire
 Date: 2018-10-29
-Category: poems
+Category: shipit
 Tags: poems
 Slug: subvenire
 Summary: 
