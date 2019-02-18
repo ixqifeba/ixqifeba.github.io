@@ -13,38 +13,30 @@ goodness
 in you.
 
 It is there 
-in the throes and fits,
-the heights and the lows.
+in the throes and the fits,
+despair and elation,
+willed or otherwise.
 
 You may not see it now,
-but know it is there.
+but know 
+that it is there,
+behind overcast skies.
 
-It may be masked,
-like an overcast sky.
-
-It is not of blind belief,
-
-
-It is there because
-none of this dance
-would be possible
-if the core wasn't good.
-
-It does not license
-your acts, or 
+Beware though,
+it does not 
+license your acts, nor 
 condone your crimes.
 
-It cares not of
-these trivialities.
+Nor an totem
+to allay concerns.
+
+It is not of
+these trivialities,
+but much deeper.
 
 The worst crimes
 were seeded by the
 want of better.
-
-It is not 
-to be taken
-to condone your acts
-or justify a grudge. (??)
 
 It is there in the way
 you face your hurt
@@ -56,4 +48,11 @@ for it to be there
 (for the simplest things)
 beyond anything else.
 
+It is not of blind belief,
+or complicity.
+
+It is there because
+none of this dance
+would be possible
+if the core wasn't good.
 </div>
