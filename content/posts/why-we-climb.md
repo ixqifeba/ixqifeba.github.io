@@ -5,32 +5,33 @@ Slug: why-we-climb
 Summary: 
 
 <div class="post-poem">
-Though conquer appeals,
-hidden affiliates 
-emerge
- 
-`---`
-
 Miles below
-where I've left myself
+I've left myself
 of certainty
 and what's to come.
 
+?something about the climb itself?
+
 The exhaustion
-that grants grace
+grants ?a grace
+? by making room for 
 by allowing nothing else.
 
+?Then
 Willing to accept
-whatever may come,
-(whatever unfolds)
+whatever unfolds
 for the gift that it is,
 in constant renew.
 
-Yielding memory
+?Finally
+Yielding memory ?itself
 from the confines
-of its (mortal) clutch. 
+of its (mortal) ?mental clutch. 
+
+?Let
 Recoup its course 
 to (fade and) cease.
+?back into forgetting.
 
 To feel that stream,
 thoroughly rapt
