@@ -1,6 +1,5 @@
 Title: Looking (to be rewritten)
 Date: 2018-10-18
-Status: published
 Slug: looking (rewrite)
 Status: draft
 Summary:
