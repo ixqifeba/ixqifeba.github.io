@@ -1,6 +1,6 @@
 Title: Puberty
 Date: Jul 28 2020
-Status: published
+Status: draft
 Slug: puberty
 Summary: 
 
@@ -13,9 +13,10 @@ once
 in those awkward
 early years
 where we were
-crudely cleaved
+// entirely (malformed, mis-shapen, oblong?) unformed.
+crudely hewn
 
-Even now,
+(even now)
 I'm constantly
 called to
 speak words
@@ -24,13 +25,18 @@ than myself.
 
 My voice 
 cracking, and my body
-shaken,
-rising from shambles
-once again.
+flesh in trills
+trembling
+shaken
+
+(to rise from defeat)
+(rising from the shambles)
+yet again.
 
 (reminding me of the lack of control of puberty)
 
-Reform into
+And become
+(reform into)
 something
 I'm yet so scared
 to be.
@@ -41,11 +47,15 @@ before
 I'm asked to move out.
 
 There is an
-harshness here,
-but
-I must admit, also
+inexorable/indelible? meanness here,
+but also
+(an adventure.)
+
+an invitation
+to some
+ineffable adventure
+
 an inviting road
-pinned to 
-some distant horizon.
+pinned to horizon
 
 </div>

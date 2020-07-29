@@ -14,6 +14,8 @@ and in those (that) awkward
 early years
 where we're
 entirely (malformed, mis-shapen) unformed.
+(blob, stumbling forward, 
+
 
 NB: Why change voices here? to me?
 (even now)
