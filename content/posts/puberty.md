@@ -8,13 +8,15 @@ Summary:
 It is a myth
 to think that
 puberty only comes
-once
+once.
 
 and in those (that) awkward
 early years
 where we're
 entirely (malformed, mis-shapen) unformed.
 
+NB: Why change voices here? to me?
+(even now)
 I'm constantly
 called to
 speak words
@@ -42,6 +44,9 @@ There is an
 inexorable/indelible? meanness here,
 but also
 (an adventure.)
+
+(unwelcome -> welcome/inviting road)
+
 
 an invitation
 to some
