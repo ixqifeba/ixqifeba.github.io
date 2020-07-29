@@ -1,7 +1,7 @@
 Title: Puberty
 Date: Jul 28 2020
 Status: draft
-Slug: puberty
+Slug: puberty v2
 Summary: 
 
 <div class="post-poem">
