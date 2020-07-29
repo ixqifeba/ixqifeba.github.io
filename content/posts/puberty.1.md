@@ -13,7 +13,7 @@ once
 in those awkward
 early years
 where we were
-crudely cleaved
+crudely hewn.
 
 Even now,
 I'm constantly
@@ -28,8 +28,6 @@ shaken,
 rising from shambles
 once again.
 
-(reminding me of the lack of control of puberty)
-
 Reform into
 something
 I'm yet so scared
@@ -41,9 +39,12 @@ before
 I'm asked to move out.
 
 There is an
-harshness here,
-but
-I must admit, also
+indelible
+harshness here.
+
+But,
+I must admit as well,
+begrudingly,
 an inviting road
 pinned to 
 some distant horizon.
