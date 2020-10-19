@@ -2,5 +2,6 @@
 *.pid
 
 __pycache__/
+env/
 venv/
 output/

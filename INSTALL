@@ -1,0 +1,9 @@
+Steps:
+1. Create virtualenv
+    $ python3 -mvenv venv
+
+2. Install Pelican 
+    $ pip install pelican
+
+3. Install requirements for the package
+    $ pip install -r requirements.txt
