@@ -5,7 +5,7 @@ Slug: gravity
 Summary: 
 
 <div class="post-poem">
-It wasn't until 
+It wasn't until  
 I learned of gravity,
 that I stopped taking
 falling 
@@ -28,3 +28,6 @@ having to hold
 a personal grudge
 against gravity.
 </div>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzc1OTQ5OTAzXX0=
+-->
