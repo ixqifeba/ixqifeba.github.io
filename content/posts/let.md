@@ -5,6 +5,9 @@ Slug: let
 Summary: 
 
 <div class="post-poem">
+Let the flower,
+be the flower.
+
 Let the wind,
 be the wind.
 
@@ -13,9 +16,6 @@ be the wave.
 
 Let the emotion,
 be the emotion.
-
-Let the mood,
-be the mood.
 
 Not a sign,
 nor a totem,
