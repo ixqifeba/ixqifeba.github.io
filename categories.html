@@ -1,27 +1,82 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-        <title>wasurerareru</title>
-        <meta charset="utf-8" />
-        <link href="https://ixqifeba.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="wasurerareru Full Atom Feed" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="wasurerareru, documented moltings">
+
+        <link rel="alternate"  href="https://ixqifeba.github.io/feeds/all.atom.xml" type="application/atom+xml" title="wasurerareru Full Atom Feed"/>
+
+        <title>Categories | wasurerareru // documented moltings</title>
+
+
+    <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,400i,500" rel="stylesheet">
+    <!--link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.3.0/pure-min.css"-->
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://ixqifeba.github.io/theme/css/pure.css">
+
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 </head>
 
-<body id="index" class="home">
-        <header id="banner" class="body">
-                <h1><a href="https://ixqifeba.github.io/">wasurerareru <strong></strong></a></h1>
-        </header><!-- /#banner -->
-        <nav id="menu"><ul>
-            <li><a href="/pages/about.html">About</a></li>
-            <li><a href="/pages/drafts.html">WIP</a></li>
-        </ul></nav><!-- /#menu -->
-<ul>
-    <li><a href="https://ixqifeba.github.io/category/posts.html">posts</a></li>
-</ul>
-        <footer id="contentinfo" class="body">
-                <address id="about" class="vcard body">
-                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
-                which takes great advantage of <a href="http://python.org">Python</a>.
-                </address><!-- /#about -->
-        </footer><!-- /#contentinfo -->
+<body>
+    <div class="pure-g-r" id="layout">
+        <div class="sidebar pure-u">
+            <div class="cover-img" style="background-image: url('/images/eberhard-grossgasteiger-545770-unsplash.jpg')">
+                <div class="cover-img-overlay">
+                    <div class="cover-body">
+                        <header class="header">
+                            <hgroup>
+                                <h1 class="brand-main"><a href="https://ixqifeba.github.io">wasurerareru</a></h1>
+                                <p class="tagline">documented moltings</p>
+                                    <p class="links"><a href="/pages/about.html">About</a></p>
+                                    <p class="links"><a href="/pages/drafts.html">WIP</a></p>
+                                    <p class="social">
+                                    </p>
+                            </hgroup>
+                        </header>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <div class="pure-u-1">
+        <div class="content">
+            <h1 class="content-subhead">All Categories</h1>
+            <ul>
+                    <li><a href="https://ixqifeba.github.io/category/posts.html">posts</a></li>
+            </ul>
+<footer class="footer">
+    <p>&copy; ixqifeba &ndash;
+        Built with <a href="https://github.com/PurePelicanTheme/pure-single">Pure Theme</a>
+        for <a href="http://blog.getpelican.com/">Pelican</a>
+    </p>
+</footer>        </div>
+    </div>
+    </div>
+    <script>
+        var $top = $('.go-top');
+
+        // Show or hide the sticky footer button
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 200) {
+                $top.fadeIn(200);
+            } else {
+                $top.fadeOut(200);
+            }
+        });
+
+        // Animate the scroll to top
+        $top.click(function(event) {
+            event.preventDefault();
+            $('html, body').animate({scrollTop: 0}, 300);
+        })
+
+        // Makes sure that the href="#" attached to the <a> elements
+        // don't scroll you back up the page.
+        $('body').on('click', 'a[href="#"]', function(event) {
+            event.preventDefault();
+        });
+    </script>
+
 </body>
 </html>
