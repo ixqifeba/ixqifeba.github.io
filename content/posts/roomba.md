@@ -6,21 +6,26 @@ Summary:
 
 <div class="post-poem">
 Like a Roomba
-cornered, and
+cornered, 
+and
 bashing itself 
-into a wall.
+into the wall.
 
 No need for 
-new design.
+wrecking balls, or
+new designs.
 
-The failure (persistence)
-in retrying,
+The failure
+in persistence,
 is no failure.
 
-Just a signal
-to reorient
-the native one
+Just a message
+to reorient, and
 to break the yet
 undiscovered
 symmetry.
+
+Pray that I'm
+a bit smarter,
+when my head aches.
 </div>
