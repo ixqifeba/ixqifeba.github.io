@@ -15,13 +15,11 @@ unlike my kind,
 to be watched,
 with narrowed eyes.
 
-I have been away too long,
+I had been away too long,
 far from home,
 cracked skin and haggard,
 having lost
 my own reflection.
-
-...
 
 It wasn't until I saw
 my grandmother in your concern,
@@ -29,20 +27,9 @@ my aunt in your smile,
 my brother in your camaraderie, and
 my sister in your sweetness.
 
-in their embrace,
-I lost the boundary??
+In that embrace,
+I lost 
 the divide.
-The
-
----
-In your stoic persistence,
-that I turned
-for an embrace,
-I realized then
-that's how they died
-and all
-they had done for me.
---/
 
 I didn't know
 that's how they died
@@ -56,20 +43,13 @@ that would
 spring to life.
 
 Cast me off,
-cotyledon and all,
----
 booster rockets strapped,
-sails and supplies;
-a ruderal
-to forge itself
+sails and supplies,
+cotyledon and all;
+a ruderal,
+to forge its roots
 and
-to bloom beauty
-anywhere.
---/
-to forge? roots
-and
-to bloom
+to bloom 
 anywhere.
 
-(Space metaphor?)
 </div>
