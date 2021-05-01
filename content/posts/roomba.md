@@ -25,7 +25,6 @@ to break the yet
 undiscovered
 symmetry.
 
-Pray that I'm
-a bit smarter,
+Pray that I listen,
 when my head aches.
 </div>
