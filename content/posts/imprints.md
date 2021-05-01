@@ -5,15 +5,6 @@ Slug: imprints
 Summary:
 
 <div class="post-poem">
-I was told of you.
-The danger you conceal,
-even the kindness
-is suspect.
-
-You are an other,
-unlike my kind,
-to be watched,
-with narrowed eyes.
 
 I had been away too long,
 far from home,
