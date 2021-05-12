@@ -52,8 +52,8 @@ like an
 untethered astronaut.
 
 All I wanted 
-was 
-to be oriented
+was to be 
+oriented
 by you.
 
 </div>
